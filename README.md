@@ -11,6 +11,6 @@ My First Repository
 <dd><i>What i like about this movie is that it kept me on edge until the end of the movie especially the twist in the especially the blood on the killer's collared shirt when he entered the police department.</i></dd>
 <br></br>
 <b>2. The Matrix || Directed By: Wachowski Brothers</b>
-<br>
+
 ![image](https://user-images.githubusercontent.com/102843107/206891944-69309a15-37b0-47cb-b4ce-d0a73cbe055f.png)
 
