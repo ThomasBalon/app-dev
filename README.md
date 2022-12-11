@@ -52,8 +52,3 @@ My First Repository
 <br></br>
 <dt>Comment:</dt>
 <dd><i>To me this is still the best spiderman ever. 100/10. :grin:</i>
- 
-<br></br>
- 
- 
- 
