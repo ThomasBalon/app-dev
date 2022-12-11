@@ -21,6 +21,7 @@ My First Repository
 <br>
 <b>3. Treasure Planet || Directed By:John Musker & Ron Clements</b>
 ![image](https://user-images.githubusercontent.com/102843107/206892226-56fec232-e44b-4897-9a59-4ad735f4cbce.png)
+
 <dt>Plot:</dt>
 <dd><i>The legendary "loot of a thousand worlds" inspires an intergalactic treasure hunt when 15-year-old Jim Hawkins stumbles upon a map to the greatest pirate trove in the universe in Walt Disney Pictures' thrilling animated space adventure, "Treasure Planet." Based on one of the greatest adventure stories ever told - Robert Louis Stevenson's "Treasure Island" - this film follows Jim's fantastic journey across a parallel universe as a cabin boy aboard a glittering space galleon..</i></dd>
 <br>
