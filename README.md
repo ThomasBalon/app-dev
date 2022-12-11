@@ -24,7 +24,17 @@ My First Repository
 ![image](https://user-images.githubusercontent.com/102843107/206892226-56fec232-e44b-4897-9a59-4ad735f4cbce.png)
 
 <dt>Plot:</dt>
-<dd><i>The legendary "loot of a thousand worlds" inspires an intergalactic treasure hunt when 15-year-old Jim Hawkins stumbles upon a map to the greatest pirate trove in the universe in Walt Disney Pictures' thrilling animated space adventure, "Treasure Planet." Based on one of the greatest adventure stories ever told - Robert Louis Stevenson's "Treasure Island" - this film follows Jim's fantastic journey across a parallel universe as a cabin boy aboard a glittering space galleon..</i></dd>
+<dd><i>The legendary "loot of a thousand worlds" inspires an intergalactic treasure hunt when 15-year-old Jim Hawkins stumbles upon a map to the greatest pirate trove in the universe in Walt Disney Pictures' thrilling animated space adventure, "Treasure Planet." Based on one of the greatest adventure stories ever told - Robert Louis Stevenson's "Treasure Island" - this film follows Jim's fantastic journey across a parallel universe as a cabin boy aboard a glittering space galleon.</i></dd>
 <br>
 <dt>Comment:</dt>
 <dd><i>It is sad to know that this movie flopped when it was released on theaters. But many years later a lot of people liked it including me  heck just the thought of going on an planet filled with treasure sure sounds amazing. PS. the soundtrack on this movie is Amazing</i></
+<br>
+<b>4. Inception || Directed By:Christopher Nolan</b>
+
+![image](https://user-images.githubusercontent.com/102843107/206892800-88dcde99-69cb-4995-a1ce-38ba40c41d72.png)
+
+<dt>Plot:</dt>
+<dd><i>Dom Cobb is a thief with the rare ability to enter people's dreams and steal their secrets from their subconscious. His skill has made him a hot commodity in the world of corporate espionage but has also cost him everything he loves. Cobb gets a chance at redemption when he is offered a seemingly impossible task: Plant an idea in someone's mind. If he succeeds, it will be the perfect crime, but a dangerous enemy anticipates Cobb's every move.</i></dd>
+<br>
+<dt>Comment:</dt>
+<dd><i>Amazing 10/10 || it makes you feel smart :joy:. jk it is amazing though if you haven't watch it yet watch it now.</i></
