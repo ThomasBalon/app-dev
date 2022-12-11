@@ -29,7 +29,7 @@ My First Repository
 <dd><i>The legendary "loot of a thousand worlds" inspires an intergalactic treasure hunt when 15-year-old Jim Hawkins stumbles upon a map to the greatest pirate trove in the universe in Walt Disney Pictures' thrilling animated space adventure, "Treasure Planet." Based on one of the greatest adventure stories ever told - Robert Louis Stevenson's "Treasure Island" - this film follows Jim's fantastic journey across a parallel universe as a cabin boy aboard a glittering space galleon.</i></dd>
 <br>
 <dt>Comment:</dt>
-<dd><i>It is sad to know that this movie flopped when it was released on theaters. But many years later a lot of people liked it including me  heck just the thought of going on an planet filled with treasure sure sounds amazing. PS. the soundtrack on this movie is Amazing</i></
+<dd><i>It is sad to know that this movie flopped when it was released on theaters. But many years later a lot of people liked it including me  heck just the thought of going on an planet filled with treasure sure sounds amazing. PS. the soundtrack on this movie is :fire:</i></
  
 <br></br>
  
