@@ -19,7 +19,7 @@ My First Repository
 <dt>Comment:</dt>
 <dd><i>Absolutely Amazing. I remember watching this when i was 7 years old i was amazed on the SFX on this movie it was insane my favorite part from this movie is the shootout lobby where Neo and Trinity comes to rescue Morpheus.</i></dd>
 <br></br>
-<b>3. Treasure Planet || Directed By:John Musker & Ron Clements</b>
+<b>3. Treasure Planet || Directed By: John Musker & Ron Clements</b>
 
 ![image](https://user-images.githubusercontent.com/102843107/206892226-56fec232-e44b-4897-9a59-4ad735f4cbce.png)
 
@@ -31,7 +31,7 @@ My First Repository
  
 <br></br>
  
-<b>4. Inception || Directed By:Christopher Nolan</b>
+<b>4. Inception || Directed By: Christopher Nolan</b>
 
 ![image](https://user-images.githubusercontent.com/102843107/206892800-88dcde99-69cb-4995-a1ce-38ba40c41d72.png)
 
@@ -39,4 +39,21 @@ My First Repository
 <dd><i>Dom Cobb is a thief with the rare ability to enter people's dreams and steal their secrets from their subconscious. His skill has made him a hot commodity in the world of corporate espionage but has also cost him everything he loves. Cobb gets a chance at redemption when he is offered a seemingly impossible task: Plant an idea in someone's mind. If he succeeds, it will be the perfect crime, but a dangerous enemy anticipates Cobb's every move.</i></dd>
 <br>
 <dt>Comment:</dt>
-<dd><i>Amazing 10/10 || it makes you feel smart :joy:. jk it is amazing though if you haven't watch it yet watch it now.</i></
+<dd><i>Amazing 10/10 || it makes you feel smart :joy:. jk it is amazing though if you haven't watch it yet watch it now.</i>
+ 
+<br></br>
+
+<b>5. Sam Raimi's Spiderman || Directed By: Sam Raimi</b>
+
+![image](https://user-images.githubusercontent.com/102843107/206893344-9ee88d29-f88e-44bc-89f0-fcfd17232a56.png)
+
+<dt>Plot:</dt>
+<dd><i>"Spider-Man" centers on student Peter Parker who, after being bitten by a genetically-altered spider, gains superhuman strength and the spider-like ability to cling to any surface. He vows to use his abilities to fight crime, coming to understand the words of his beloved Uncle Ben: "With great power comes great responsibility."</i></dd>
+<br></br>
+<dt>Comment:</dt>
+<dd><i>To me this is still the best spiderman 100/10.</i>
+ 
+<br></br>
+ 
+ 
+ 
