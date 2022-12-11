@@ -18,7 +18,7 @@ My First Repository
 <br>
 <dt>Comment:</dt>
 <dd><i>Absolutely Amazing. I remember watching this when i was 7 years old i was amazed on the SFX on this movie it was insane my favorite part from this movie is the shootout lobby where Neo and Trinity comes to rescue Morpheus.</i></dd>
-<br>
+<br></br>
 <b>3. Treasure Planet || Directed By:John Musker & Ron Clements</b>
 
 ![image](https://user-images.githubusercontent.com/102843107/206892226-56fec232-e44b-4897-9a59-4ad735f4cbce.png)
@@ -28,9 +28,9 @@ My First Repository
 <br>
 <dt>Comment:</dt>
 <dd><i>It is sad to know that this movie flopped when it was released on theaters. But many years later a lot of people liked it including me  heck just the thought of going on an planet filled with treasure sure sounds amazing. PS. the soundtrack on this movie is Amazing</i></
-<br>
  
-  
+<br></br>
+ 
 <b>4. Inception || Directed By:Christopher Nolan</b>
 
 ![image](https://user-images.githubusercontent.com/102843107/206892800-88dcde99-69cb-4995-a1ce-38ba40c41d72.png)
