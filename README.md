@@ -1,9 +1,10 @@
 # app-dev
 My First Repository
-<center>
-  <p>My Favorite Movies</p>
-</center>
-<br>
+
+<p>My Favorite Movies</p>
+
+<br></br>
+
 <b>1. Se7en || Directed By: David Fincher</b>
 <br>
 ![image](https://user-images.githubusercontent.com/102843107/206891966-054a378d-cdba-48ed-a48b-fdca31bf96ce.png)
