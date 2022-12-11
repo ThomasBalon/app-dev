@@ -1,7 +1,7 @@
 # app-dev
 My First Repository
 <br>
-<center><b>1. Se7en || Directed By: David Fincher</center></b>
+                                            <b>1. Se7en || Directed By: David Fincher</b>
 <br>
 ![image](https://user-images.githubusercontent.com/102843107/206891207-9e1a4f17-d78b-40e7-a948-0b2976be5aba.png)
 <dt>Plot:</dt>
